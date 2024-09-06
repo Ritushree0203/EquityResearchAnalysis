@@ -89,5 +89,5 @@ Run the application using the command below and follow the prompts on the Stream
 </ul>
 
 <p align="center">
-  <i>Developed under the guidance of Dr. Neha, CHRIST (Deemed to be University)</i>
+  <i>Developed under the guidance of Dr. Neha Singhal, CHRIST (Deemed to be University)</i>
 </p>
