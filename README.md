@@ -71,12 +71,34 @@ Run the application using the command below and follow the prompts on the Stream
 <code>streamlit run src/main.py</code>
 </pre>
 
+<h2>🖼️ Screenshots</h2>
+
+<p>Here are some screenshots of the application in action:</p>
+
+<ul>
+  <li><img src="rockybot.jpg" alt="Screenshot 1" width="500"></li>
+</ul>
+
+<p>Upload your screenshots in the <code>screenshots/</code> directory and update the paths accordingly.</p>
+
+<h2>🤝 Contributing</h2>
+
+<p>
+We welcome contributions! Please read our <a href="CONTRIBUTING.md">contributing guidelines</a> first.
+</p>
+
+<h2>📄 License</h2>
+
+<p>
+This project is licensed under the <a href="LICENSE">MIT License</a>.
+</p>
+
 <h2>👥 Team</h2>
 
 <ul>
-  <li>Ritushree Dey</li>
-  <li>Shruti Ranjan</li>
   <li>Epsita Rajesh</li>
+  <li>Shruti Ranjan</li>
+  <li>Ritushree Dey</li>
 </ul>
 
 <p align="center">
